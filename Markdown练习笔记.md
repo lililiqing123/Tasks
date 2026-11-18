@@ -34,7 +34,11 @@ int main()
 liqingxiao
 ---
 #### 链接
-[github](gitbhub.com "开源网站")
+[github](https://github.com "开源网站")
+
+![图片引用](https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ecd8c7de7375d0f703908f6480)
+
+*斜体* **加粗** `printf()` <ins>下划线</ins>
 
 
 
