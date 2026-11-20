@@ -11,3 +11,7 @@
 
   ## 第二阶段
  - [hello.md](第二阶段/hello.md)
+
+- [Other Think.md](第二阶段/OtherThink.md)
+- [Git提交练习](第二阶段/hello.md)
+- [问题解决](第二阶段/问题解决.md)
